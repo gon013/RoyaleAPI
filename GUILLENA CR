@@ -1,0 +1,14 @@
+name: GUILLENA CR Clan Family
+key: guillenacr
+color: blue
+emblem: Tower_01
+info:
+  description: >
+    The **GUILLENA CR Clan Family** (GUICR) es una familia de clanes basada en 3 clanes donde lo intentamos dar todo. Somos TOP Español y Global y nuestros jugadores son de lo mejor.
+  social:
+    - instagram: https://instagram.com/guillenacr
+clans:
+  - name: GUILLENA CR
+    tag: QY8RLJ9P
+  - name: GUILLENA CR ''B''
+    tag: L0200P2C
